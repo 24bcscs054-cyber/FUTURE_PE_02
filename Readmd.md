@@ -61,7 +61,11 @@ Below are the exact AI prompts used to generate the content. I used [ChatGPT / C
 
 ---
 
-### 🎥 Final AI Video Mockup
+## 🎥 Final AI Video Mockup
+
+*This video mockup was fully assembled using AI tools to prove the prompt system works.*
+* **Visuals:** AI-generated images reflecting the exact visual cues from the prompt.
+* **Audio Engineering:** Built using **Microsoft Clipchamp** AI Text-to-Speech. I purposefully engineered the text prompts with specific punctuation (like ellipses and commas) to force the AI to take natural breaths and mimic an authentic Gen Z conversational cadence.
 
 https://github.com/user-attachments/assets/e178edc2-b721-4c52-9418-4c0c7b6c6c04
 
