@@ -1,8 +1,10 @@
 # 🚀 AI-Powered UGC Ad Content System
 
 **Author:** V Mouli
+
 **Project:** Prompt Engineering Task 2 (Future Interns)  
-**Niche/Business:** [Insert Brand Name, e.g., Glow-Up Skincare]  
+
+**Niche/Business:** Gurunanak Cafe @ RRU Campus
 
 ## 📌 Project Overview
 Today’s consumers ignore polished, corporate commercials. They buy from authentic, User-Generated Content (UGC). This project demonstrates a systematized AI prompt engineering workflow to generate high-converting UGC ad scripts for [Insert Brand Name]. 
