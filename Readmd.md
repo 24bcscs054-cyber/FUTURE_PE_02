@@ -58,3 +58,10 @@ Below are the exact AI prompts used to generate the content. I used [ChatGPT / C
 * **Hyper-Targeted Pain Points:** Every college student relates to the feeling of 2 AM hunger combined with academic stress. It immediately builds empathy.
 * **Visual Proof:** Showing the hot food after the "struggle" of studying provides a satisfying visual resolution.
 * **Frictionless CTA:** The call-to-action specifically targets the immediate pain point ("If you're studying late tonight... order right now"), creating urgency without sounding like a traditional salesperson.
+
+---
+
+### 🎥 Final AI Video Mockup
+
+https://github.com/user-attachments/assets/e178edc2-b721-4c52-9418-4c0c7b6c6c04
+
